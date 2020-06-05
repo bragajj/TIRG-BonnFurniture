@@ -13,6 +13,10 @@
 # limitations under the License.
 # ==============================================================================
 
+#Additions and modifications for Bonn Furniture Dataset made by Doris Lin and Jeff Braga
+#CS583 2020
+
+
 """Provides data for training and testing."""
 import numpy as np
 import PIL
@@ -407,7 +411,7 @@ class BonnFurniture(BaseDataset):
     label_files = [f for f in label_files if split in f]
 
   def caption_post_process(s):
-    return s.strip().replace('.', 'dotmark').replace('?', 'questionmark').replace('&', 'andmark').replace('*', 'starmark').replace(';', 'semicolon')
+    return s.strip().replace('.', 'dotmark').replace('?', 'questionmark').replace('&', 'andmark').replace('*', 'starmark').replace(';', ' ')
 
   for filename in label_files:
       print('read ' + filename)
