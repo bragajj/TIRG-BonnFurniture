@@ -1,4 +1,4 @@
-# TIRG Composing Text and Image for Image Retrieval with Bonn Furniture Styles dataset
+# Retrieving Furniture Image and Style with TIRG
 
 by Jeffery Braga, Doris Chia-ching Lin
 
