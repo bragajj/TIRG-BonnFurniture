@@ -1,6 +1,6 @@
 # Retrieving Furniture Image and Style with TIRG
 
-by Jeffery Braga, Doris Chia-ching Lin
+by Jeffrey Braga, Doris Chia-ching Lin
 
 This project is an attempt to use TIRG function for image retrieval with new furniture style dataset. The originally code was published with the paper:
 
