@@ -2,7 +2,7 @@
 
 by Jeffrey Braga, Doris Chia-ching Lin
 
-This project is an attempt to use TIRG function for image retrieval with new furniture style dataset. The originally code was published with the paper:
+This project is an attempt to use TIRG function for image retrieval with a new furniture style dataset. The original code was published with the paper:
 
 **<a href="https://arxiv.org/abs/1812.07119">Composing Text and Image for Image Retrieval - An Empirical Odyssey
 </a>**
