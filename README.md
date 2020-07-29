@@ -24,7 +24,7 @@ CVPR 2018.
 
 ## Implementation
 
-In order implement TIRG to the furniture style dataset, we have created a `test_queries.txt` to map the index of source image and target image for image retrieval. Each image has captions could be cross-referenced with testing queries. Here are our dataset stats:
+In order to implement TIRG for the furniture style dataset, we have created `test_queries.txt` to map the index of source image and target image for image retrieval. Each image has captions which can cross-referenced with testing queries. Here are our dataset stats:
 
 Train Model
 
