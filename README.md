@@ -29,7 +29,7 @@ In order to implement TIRG for the furniture style dataset, we have created `tes
 Train Model
 
 - FurnitureStyle: 133346 images
-- 56520 unique cations
+- 56520 unique captions
 - Modifiable images 40076
 
 Test Model
