@@ -47,7 +47,7 @@ Test Model
 
 ## Hardware Requirement:
 
-- Need have a `cuda` **<a href="https://developer.nvidia.com/cuda-gpus">compatible graphic card
+- Need to have a `cuda` **<a href="https://developer.nvidia.com/cuda-gpus">compatible graphic card
   </a>**
 
 ## Running Models
